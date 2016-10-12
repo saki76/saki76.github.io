@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://saki76.github.io
+title: Cyber Musings
+email: vikassinghyadav@gmail.com
+author: Vikas
+description: My thoughts on InfoSec, Leadership , PM and ELearning. 
+paginate: 3
+google_analytics: 
